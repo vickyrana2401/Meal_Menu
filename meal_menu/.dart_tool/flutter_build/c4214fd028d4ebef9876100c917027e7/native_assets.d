@@ -1,0 +1,1 @@
+ /home/vikki/Documents/Flutter/meal_menu/meal_menu/.dart_tool/flutter_build/c4214fd028d4ebef9876100c917027e7/native_assets.yaml: 
