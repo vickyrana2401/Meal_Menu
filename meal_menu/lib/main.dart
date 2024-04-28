@@ -8,7 +8,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Practice'),
+        title: Text('apk'),
         centerTitle: true,
         backgroundColor: Colors.red[800],
       ),
