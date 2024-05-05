@@ -8,19 +8,15 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('PractiCCCCce'),
+        title: Text('Practice'),
         centerTitle: true,
         backgroundColor: Colors.red[800],
       ),
       body: Center(
-        child: Text(
-          'Hello Rana \n',
-          style: TextStyle(
-              fontSize: 20.0,
-              fontWeight: FontWeight.bold,
-              letterSpacing: 2.0,
-              color: Colors.grey[800],
-              fontFamily: 'd'),
+        child: FlatButton(
+          onPressed:(){},
+          child: Text('click me'),
+          color:colors.lightBlue,
         ),
       ),
       floatingActionButton: FloatingActionButton(
